@@ -1,8 +1,8 @@
-Authors: Lauren Cowley
-Title:The best paper ever!
+Authors: Lauren Cowley, Anna Taylor
+Title:The best paper ever about everything else but proteins.
 
 Introduction:Some introduction
-Data:NO data yet. Still have to collect it.
+Data:I think I have some data but not sure yet.
 
 Analysis:
 Conclusion: I think this may get me a nobel prize.

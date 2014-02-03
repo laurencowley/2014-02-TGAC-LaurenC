@@ -1,8 +1,10 @@
-Authors: Lauren Cowley, Anna Taylor
-Title:The best paper ever about everything else but proteins.
+<<<<<<< HEAD
+Authors: Lauren Cowley, John Smith, Anna Taylor
+Title:The best paper ever about everything else and  proteins.
 
 Introduction:Some introduction
 Data:I think I have some data but not sure yet.
 
-Analysis:
+
+Analysis:[Noter: John still has to do the analysis]
 Conclusion: I think this may get me a nobel prize.

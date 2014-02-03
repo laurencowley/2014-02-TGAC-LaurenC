@@ -1,8 +1,8 @@
-Authors: Lauren Cowley
-Title:The best paper ever!
+Authors: John Smith, Lauren Cowley
+Title:The best paper ever about proteins.
 
 Introduction:Some introduction
-Data:NO data yet. Still have to collect it.
+Data: John has all the data.
 
-Analysis:
+Analysis:[Noter: John still has to do the analysis]
 Conclusion: I think this may get me a nobel prize.

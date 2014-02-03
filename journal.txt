@@ -1,7 +1,8 @@
-Authors:
-Title:
+Authors: Lauren Cowley
+Title:The best paper ever!
 
-Introduction:
-Data:
+Introduction:Some introduction
+Data:NO data yet. Still have to collect it.
+
 Analysis:
 Conclusion:
